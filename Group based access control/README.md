@@ -3,7 +3,7 @@ This section demonstrates how role-based access control (RBAC) was implemented u
 Instead of assigning permissions to individual users, access is managed through groups, allowing scalable and consistent identity management.
 
 1. Creating a Role-Based Group
-Added "Title and Department" attributes to newly created user profile. Title: Techinical Support Specialist Department: Engineering
+Added "Title and Department" attributes to newly created user profile. Title: IT Support Specialist Department: Engineering
 
 Created a new group in Directory → Groups to represent the Enineering role within the organization.
 
